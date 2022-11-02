@@ -2,3 +2,17 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# confidential fishery dependent data
+*confidential*
+*NCF*
+*size_joins*
+*Obj1*
+*NORPAC*
+
+#excel
+*xlsx
+
+#too big
+*MOST_FISH*
+*clean_iphc*
